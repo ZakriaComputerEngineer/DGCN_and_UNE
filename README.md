@@ -1,4 +1,4 @@
-# DGCN_and_UNE
+# DGCN and UNET application on X-ray threat object detection in bags
 training and evaluating dual graph CNN and Unet architecture based mode on single class dataset using image segmentaiton. This is a Digital Image processing postgrad semester project and achieved 78% accuracy using a small dataset uning 10 epoches, 256x256 resolution, batch size 4 and trainned on 80-20 rule.
 
 In first i extracted the architecure provided in this git and loaded in my model (in training code):
