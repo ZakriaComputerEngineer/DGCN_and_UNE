@@ -15,3 +15,5 @@ DGCN architecure has 70 million plus parameters and 360+ layers
 then I used Unet standard architecture for training in same dataset and generated confusion matrix, predicion accuracy on the 20% evaluation file test my training code, image preprocessing, model settings and efficiency of selected loss functions and optimizer.
 
 DGCN architecture is extensive model training, requires high-end system to train even small datasets like i used a 200mb dataset yet it still required better cpu and memory. you can use the training code i wrote for the DGCN model and run the same evaluation on it.
+LOSS FUNCT: Binary Cross Entropy loss for binary segmentation
+OPTIMIZER: ADAM
