@@ -26,7 +26,7 @@ OPTIMIZER: ADAM
 
 The segmentation results demonstrate the model's ability to identify and segment objects such as guns and razor blades with significant accuracy.
 Comparison of predicted segmentation maps and ground truth highlights the model's performance on fine object details, though some edge discrepancies are observed.
-![Picture3](https://github.com/user-attachments/assets/0ad1c432-945b-4084-8a22-a410e28b7c95)
+
 ![Picture2](https://github.com/user-attachments/assets/92d612b8-5e74-4b3a-b9a1-47e5870bcba4)
 ![Picture1](https://github.com/user-attachments/assets/19bb5327-f2ae-41e7-8a86-778a185697cf)
 
@@ -40,6 +40,7 @@ True Background: 983,975 pixels
 False Background: 281,460 pixels
 True Objects: 23,478 pixels
 False Objects: 1,327 pixels
+![Picture3](https://github.com/user-attachments/assets/0ad1c432-945b-4084-8a22-a410e28b7c95)
 
 **Analysis:**
 
